@@ -1,1 +1,6 @@
 .env
+__pycache__/
+.venv/
+test.ipynb
+products_vectorstore
+tools.ipynb

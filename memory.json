@@ -1,0 +1,20 @@
+[
+  {
+    "deal": {
+      "product_description": "The Refurbished Samsung Galaxy Z Fold4 (SM-F936U) is a large-folding Android smartphone built around a 7.6-inch QXGA+ AMOLED main foldable display with 120Hz adaptive refresh and a 256GB internal storage configuration paired with 12GB of RAM. It runs on the Qualcomm Snapdragon 8+ Gen 1 chipset and includes a triple rear camera array (50MP wide, 12MP ultrawide, 10MP tele) for versatile photography, plus multitasking software features optimized for the foldable form factor.",
+      "price": 327.0,
+      "url": "https://www.dealnews.com/products/Samsung/Unlocked-Samsung-Galaxy-Z-Fold-4-256-GB-Android-Smart-Phone/433944.html?iref=rss-c142"
+    },
+    "estimate": 989.2,
+    "discount": 662.2
+  },
+  {
+    "deal": {
+      "product_description": "Samsung Galaxy S26 Ultra (unlocked) with 512GB storage is Samsung\u2019s flagship smartphone featuring advanced AI capabilities, a large high-resolution display, and premium build quality. The 512GB model offers extensive onboard storage for apps, photos, and videos, and supports the latest camera and processing hardware Samsung includes in its Ultra lineup. This unlocked variant works with multiple carriers and includes free shipping with pre-order availability ahead of the March 11 release.",
+      "price": 399.0,
+      "url": "https://www.dealnews.com/Unlocked-Samsung-Galaxy-S26-Ultra-512-GB-AI-Phone-Pre-Order-Up-to-900-off-w-trade-free-shipping/21814990.html?iref=rss-c142"
+    },
+    "estimate": 1229.2,
+    "discount": 830.2
+  }
+]
